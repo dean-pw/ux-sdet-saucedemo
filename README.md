@@ -9,7 +9,7 @@ Executing the spec files
 2. Type the following code:
    a. To execute all the spec files simultaneously:
    
-       ```npx wdio run ./wdio.conf.j```
+      ```npx wdio run ./wdio.conf.js```
 
    b. To execute a specific spec file:
 
